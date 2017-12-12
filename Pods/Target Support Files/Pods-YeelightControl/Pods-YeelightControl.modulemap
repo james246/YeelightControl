@@ -1,0 +1,6 @@
+framework module Pods_YeelightControl {
+  umbrella header "Pods-YeelightControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
